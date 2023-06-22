@@ -6,6 +6,7 @@ import org.apache.poi.xssf.usermodel.*;
 
 public class P2 {
 	public static void main(String[] args) {
+		 String writeFileName = "lib/국가별메달획득현황test.xlsx"; 
 		try {
 			String file = "lib/국가별메달획득현황(하계동계).xlsx";
 			FileInputStream fis = new FileInputStream(file);
@@ -15,13 +16,21 @@ public class P2 {
 			System.out.println();
 			System.out.println("- 역대 올림픽 국가별 메달 획득 갯수 -");
 			System.out.println();
+			
+			int MIN = Integer.MAX_VALUE;
+			int MAX = Integer.MIN_VALUE;
+
+			String[] Olympic = { "국가", Integer.toString(MIN), "국가", Integer.toString(MAX) };
+			
 			for (int row = 1; row < sheet.getPhysicalNumberOfRows(); row++) {
 				XSSFRow rows = sheet.getRow(row);
 				if (rows != null) {
 					String value = "";
 					int cells = rows.getPhysicalNumberOfCells();
+					
 					XSSFCell cell = rows.getCell(0);
 					XSSFCell cell2 = rows.getCell(cells-1);
+					
 					if (cell != null) {
 						switch (cell.getCellType()) {
 						case NUMERIC:
