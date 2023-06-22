@@ -1,0 +1,23 @@
+자료와 정보의 차이
+-> ppt 4페이지
+자료 : 다듬어지지 않은 날것의 요소들
+정보 : 정제되고 조직적인 데이터
+
+openCSV 다뤄보기
+
+구조화된 데이터 (Structured Data)
+틀 안에 들어간 (csv 파일, DB 등) 데이터
+ex) 이름, 나이, 성별
+
+구조화되지않은 데이터 (UnStructured Data)
+ex) 텍스트, 비디오, 오디오 파일
+
+ROM(Read only Memory) 과 RAM의 차이 
+- ROM : 휘발성이 높다.
+- RAM : 휘발성이 낮다.
+
+스프링 디버깅 어떻게 하는지?
+
+CSV = Comma Separated Values 컴퓨터 용어
+
+최소,최대,평균,표준편차

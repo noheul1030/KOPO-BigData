@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar_files/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="jar_files/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="jar_files/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jar_files/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="jar_files/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="jar_files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="jar_files/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="jar_files/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
