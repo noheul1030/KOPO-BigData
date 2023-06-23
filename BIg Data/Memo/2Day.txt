@@ -1,0 +1,22 @@
+driver.get("http://192.168.23.51:8083/Board/boardList.jsp")
+time.sleep(1000);
+String newBotton = "/html/body/div[1]/button";
+driver.findElement(By.xpath(newBotton)).click();
+
+String title = "/html/body/form/table[1]/tbody/tr[2]/td[2]/input";
+Thread.sleep(1000);
+driver.findElement(By.xpath(title)).click();
+Thread.sleep(500);
+driver.findElement(By.xpath(title)).sendKeys("안녕");
+Thread.sleep(500);
+
+String write = "/html/body/form/table[2]/tbody/tr/td/button[2]";
+driver.findElement(By.xpath(write)).click();
+
+String titleText = "/html/body/table/tbody/tr[9]/td[2]/a";
+
+String temp = findElement(By.xpath(titleText)).getText();
+System.out.println(temp);
+
+"/html/body/table/tbody/tr[5]/td[2]";
+
