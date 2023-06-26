@@ -93,5 +93,30 @@
 	<classpathentry kind="lib" path="C:/Users/노을/Downloads/selenium-server-4.2.2/lib/opentelemetry-semconv-1.14.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Users/노을/Downloads/selenium-server-4.2.2/lib/reactive-streams-1.0.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/노을/Downloads/selenium-server-4.2.2/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.16.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.16.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.16.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.16.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.16.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
