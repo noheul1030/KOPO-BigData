@@ -1,0 +1,6 @@
+키워드 : 
+1. Logistic Regression Analysis
+2. Linear Regression Analysis
+3. 5차항
+4. P-value(significance level) 유의수준(중요도 수준)
+5. 결정계수 R²
